@@ -1,6 +1,7 @@
 # Mission Control Panel (MCP) for MissionPlanner
 
-声明：此 MCP 插件目前未完成开发，且项目已停止维护。
+## 声明
+此 MCP 插件目前未完成开发，且项目已停止维护。
 
 MCP是为MissionPlanner开发的增强型控制面板，提供集中式的无人机监控和控制界面。它作为MissionPlanner的插件运行，提供更直观、更高效的无人机操作体验。
 
